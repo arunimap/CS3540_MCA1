@@ -1,2 +1,3 @@
-# CS3540_MCA1
-CS3540 (Game Programming) Assignment 1 - Unity and C# Basics
+# CS3540/Game Programming: MCA1 - Unity and C# Basics
+
+Visit https://arunimap.github.io/cs3540_MCA1/ to view project.
